@@ -1,5 +1,6 @@
-<TEST 1234BGP>
-පරීක්ෂණ අංක 1
-
-<GG>දිස්චොර්ඩ් ෆෙ
-
+{
+  "id": "1",
+  "active": true,
+  "title": "විශේෂ නිවේදනයයි <FROM BGP>",
+  "message": "අද දින රාත්‍රී 8.00 ට සාප්පුව වසනු ලැබේ.\n<Please complete all bills.>"
+}
