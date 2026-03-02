@@ -1,13 +1,13 @@
 [
   {
     "id": "msg_001",
-    "active": true,
+    "active": false,
     "target": "all",
     "title": "<Welcome To New Update.>",
     "message": "<Thank You!>"
   },
   {
-    "id": "msg_005",
+    "id": "msg_004",
     "active": true,
     "target": "admin",
     "title": "නිවේදනයයි!",
