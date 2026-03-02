@@ -3,11 +3,11 @@
     "id": "msg_001",
     "active": true,
     "target": "all",
-    "title": "විශේෂ නිවේදනයයි",
-    "message": "අද සවස 5ට සාප්පුව වසනු ලැබේ.\n<Thank You!>"
+    "title": "Welcome To New Update.",
+    "message": "<Thank You!>"
   },
   {
-    "id": "msg_004",
+    "id": "msg_002",
     "active": true,
     "target": "admin",
     "title": "නිවේදනයයි.",
@@ -15,7 +15,7 @@
   },
   {
     "id": "msg_003",
-    "active": true,
+    "active": false,
     "target": "cashier",
     "title": "<Cashier> නිවේදනයයි",
     "message": "කරුණාකර බිල්පත් නිකුත් කිරීමේදී සැලකිලිමත් වන්න."
