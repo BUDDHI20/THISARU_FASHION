@@ -7,11 +7,11 @@
     "message": "අද සවස 5ට සාප්පුව වසනු ලැබේ.\n<Thank You!>"
   },
   {
-    "id": "msg_002",
+    "id": "msg_004",
     "active": true,
     "target": "admin",
-    "title": "<Admin> නිවේදනයයි",
-    "message": "කරුණාකර නව <Stock> එක <Update> කරන්න."
+    "title": "නිවේදනයයි.",
+    "message": "කරුණාකර Items Add කිරීමේදී එකිනෙකට අවීනික වූ නම් ලබා දිමට කාරුණික වන්න.\n<Thank You!>"
   },
   {
     "id": "msg_003",
