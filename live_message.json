@@ -3,21 +3,21 @@
     "id": "msg_001",
     "active": true,
     "target": "all",
-    "title": "විශේෂ නිවේදනයයි",
-    "message": "අද සවස 5ට සාප්පුව වසනු ලැබේ\n<Thank You!>"
+    "title": "jstYaI kstjaokwws",
+    "message": "wo iji 5g idmamqj jikq ,,enat\n<Thank You!>"
   },
   {
     "id": "msg_002",
     "active": true,
     "target": "admin",
-    "title": "Admin නිවේදනය",
+    "title": "<Admin> නිවේදනය",
     "message": "කරුණාකර නව Stock එක <Update> කරන්න"
   },
   {
     "id": "msg_003",
     "active": true,
     "target": "cashier",
-    "title": "Cashier නිවේදනය",
+    "title": "<Cashier> kstjaokw",
     "message": "කරුණාකර බිල්පත් නිකුත් කිරීමේදී සැලකිලිමත් වන්න"
   }
 ]
