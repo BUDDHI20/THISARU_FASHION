@@ -3,7 +3,7 @@
     "id": "msg_001",
     "active": true,
     "target": "all",
-    "title": "Welcome To New Update.",
+    "title": "<Welcome To New Update.>",
     "message": "<Thank You!>"
   },
   {
@@ -11,7 +11,7 @@
     "active": true,
     "target": "admin",
     "title": "නිවේදනයයි.",
-    "message": "කරුණාකර Items Add කිරීමේදී එකිනෙකට ආවේනික වූ නම් ලබා දිමට කාරුණික වන්න.ඒ කියන්නෙ FROCK කියන එකම නම Items දෙකකට දෙන්න එපා...එහෙම එකම නම Items දෙකකට දුන්නොත් අනාගතයේ දී ප්‍රශ්න වෙන්න පුළුවන්... \n<Thank You!>"
+    "message": "කරුණාකර <Items Add> කිරීමේදී එකිනෙකට ආවේනික වූ නම් ලබා දිමට කාරුණික වන්න.\n\nඒ කියන්නෙ <FROCK> කියන එකම නම <Items> දෙකකට දෙන්න එපා...\n\nඑහෙම එකම නම <Items> දෙකකට දුන්නොත් අනාගතයේ දී ප්‍රශ්න වෙන්න පුළුවන්...\n\n<Thank You!>"
   },
   {
     "id": "msg_003",
