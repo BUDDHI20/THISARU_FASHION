@@ -5,5 +5,10 @@
     "role": "admin",
     "username": "bg",
     "password": "6969"
+  },
+  {
+    "update_id": "upd_77482",
+    "type": "delete_item",
+    "item_id": "10000293"
   }
 ]
