@@ -6,5 +6,13 @@
     "title": "hii",
     "message": "GGG",
     "is_read": true
+  },
+  {
+    "id": "msg_51156",
+    "active": true,
+    "target": "cashier",
+    "title": "MK !!",
+    "message": "MK කට්ටිය hodin innawada mothers\nmama nam   hodin <innawa...>",
+    "is_read": false
   }
 ]
