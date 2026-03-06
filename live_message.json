@@ -19,5 +19,12 @@
     "target": "cashier",
     "title": "<Cashier> නිවේදනයයි",
     "message": "කරුණාකර බිල්පත් නිකුත් කිරීමේදී සැලකිලිමත් වන්න."
+  },
+  {
+    "id": "msg_007",
+    "active": true,
+    "target": "admin",
+    "title": "<Test> කිරීම සඳහා වූ පණිවිඩයකි.",
+    "message": "මෙම පණිවිඩය නොසලකා හරින්න.<TEST>"
   }
 ]
