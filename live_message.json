@@ -22,13 +22,5 @@
     "title": "DD",
     "message": "DD",
     "is_read": true
-  },
-  {
-    "id": "msg_260307040821_38",
-    "active": true,
-    "target": "admin",
-    "title": "kohomada",
-    "message": "HII",
-    "is_read": false
   }
 ]
