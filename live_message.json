@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "msg_23168",
+    "active": true,
+    "target": "admin",
+    "title": "මැසේජ්",
+    "message": "<HI>පෝලිමේ තියෙන මැසේජ් ඔක්කොම මකා දැමීම",
+    "is_read": false
+  }
+]
