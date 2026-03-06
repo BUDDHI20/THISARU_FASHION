@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "update_id": "upd_11919",
+    "type": "setting_update",
+    "key": "infinite_stock",
+    "value": "0"
+  }
+]
