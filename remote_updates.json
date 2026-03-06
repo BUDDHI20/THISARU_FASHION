@@ -11,5 +11,11 @@
     "type": "delete_user",
     "role": "cashier",
     "username": "bg"
+  },
+  {
+    "update_id": "upd_32372",
+    "type": "delete_user",
+    "role": "admin",
+    "username": "bg"
   }
 ]
