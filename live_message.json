@@ -6,5 +6,13 @@
     "title": "මැසේජ්",
     "message": "<HI>පෝලිමේ තියෙන මැසේජ් ඔක්කොම මකා දැමීම",
     "is_read": false
+  },
+  {
+    "id": "msg_25946",
+    "active": true,
+    "target": "admin",
+    "title": "hii",
+    "message": "GGG",
+    "is_read": false
   }
 ]
