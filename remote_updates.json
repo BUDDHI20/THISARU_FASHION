@@ -17,5 +17,10 @@
     "type": "delete_user",
     "role": "admin",
     "username": "bg"
+  },
+  {
+    "update_id": "upd_22956",
+    "type": "delete_item",
+    "item_id": "10000293"
   }
 ]
