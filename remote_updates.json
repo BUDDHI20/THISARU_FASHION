@@ -7,8 +7,9 @@
     "password": "6969"
   },
   {
-    "update_id": "upd_77482",
-    "type": "delete_item",
-    "item_id": "10000293"
+    "update_id": "upd_56065",
+    "type": "delete_user",
+    "role": "cashier",
+    "username": "bg"
   }
 ]
