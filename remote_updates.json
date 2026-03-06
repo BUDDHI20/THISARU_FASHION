@@ -22,5 +22,10 @@
     "update_id": "upd_22956",
     "type": "delete_item",
     "item_id": "10000293"
+  },
+  {
+    "update_id": "upd_43684",
+    "type": "delete_item",
+    "item_id": "10000292"
   }
 ]
