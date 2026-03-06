@@ -1,18 +1,18 @@
 [
-  {
-    "id": "msg_72724",
-    "active": true,
-    "target": "admin",
-    "title": "HII",
-    "message": "welawa re 34",
-    "is_read": false
-  },
-  {
-    "id": "msg_74334",
-    "active": true,
-    "target": "cashier",
-    "title": "455",
-    "message": "FF",
-    "is_read": false
-  }
+    {
+        "id": "msg_72724",
+        "active": true,
+        "target": "admin",
+        "title": "HII",
+        "message": "welawa re 34",
+        "is_read": false
+    },
+    {
+        "id": "msg_74334",
+        "active": true,
+        "target": "cashier",
+        "title": "455",
+        "message": "FF",
+        "is_read": true
+    }
 ]
