@@ -14,5 +14,13 @@
     "title": "kkkk",
     "message": "kkkkk",
     "is_read": false
+  },
+  {
+    "id": "msg_260307135546_62",
+    "active": true,
+    "target": "cashier",
+    "title": "kkk",
+    "message": "kkkk",
+    "is_read": false
   }
 ]
