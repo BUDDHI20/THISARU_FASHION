@@ -1,18 +1,10 @@
 [
-    {
-        "id": "msg_260307040836_62",
-        "active": true,
-        "target": "admin",
-        "title": "GGFUCK",
-        "message": "vdgvbf",
-        "is_read": true
-    },
-    {
-        "id": "msg_260307133144_61",
-        "active": true,
-        "target": "admin",
-        "title": "COLERS",
-        "message": "<color=#1f6ce0>amma</color> <color=#00ffff>sadaki</color> <color=#400040>mama</color> <color=#00ff00>fuybk</color>",
-        "is_read": true
-    }
+  {
+    "id": "msg_260307040836_62",
+    "active": true,
+    "target": "admin",
+    "title": "GGFUCK",
+    "message": "vdgvbf",
+    "is_read": true
+  }
 ]
