@@ -1,18 +1,18 @@
 [
-  {
-    "id": "msg_260307135549_91",
-    "active": true,
-    "target": "cashier",
-    "title": "TEST 69",
-    "message": "<color=#00ff00>කරුණාකර</color> <color=#96ca35>තව</color> <color=#0000ff>තත්පර</color> <color=#f142ff>69</color>ක් <color=#8000ff>රැඳී</color> <color=#f4ba0b>සිටින්න!</color>",
-    "is_read": true
-  },
-  {
-    "id": "msg_260307141255_10",
-    "active": true,
-    "target": "cashier",
-    "title": "1",
-    "message": "GG",
-    "is_read": false
-  }
+    {
+        "id": "msg_260307135549_91",
+        "active": true,
+        "target": "cashier",
+        "title": "TEST 69",
+        "message": "<color=#00ff00>කරුණාකර</color> <color=#96ca35>තව</color> <color=#0000ff>තත්පර</color> <color=#f142ff>69</color>ක් <color=#8000ff>රැඳී</color> <color=#f4ba0b>සිටින්න!</color>",
+        "is_read": true
+    },
+    {
+        "id": "msg_260307141255_10",
+        "active": true,
+        "target": "cashier",
+        "title": "1",
+        "message": "GG",
+        "is_read": true
+    }
 ]
