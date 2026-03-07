@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "msg_260307141720_21",
+    "active": true,
+    "target": "admin",
+    "title": "GG",
+    "message": "DD",
+    "is_read": false
+  }
+]
