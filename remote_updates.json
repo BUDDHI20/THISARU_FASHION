@@ -228,5 +228,11 @@
     "type": "delete_user",
     "role": "cashier",
     "username": "9"
+  },
+  {
+    "update_id": "upd_260309211649_57",
+    "type": "delete_user",
+    "role": "admin",
+    "username": "8"
   }
 ]
