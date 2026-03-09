@@ -78,5 +78,11 @@
     "type": "delete_user",
     "role": "cashier",
     "username": "1"
+  },
+  {
+    "update_id": "upd_260309141006_48",
+    "type": "delete_user",
+    "role": "admin",
+    "username": "2"
   }
 ]
