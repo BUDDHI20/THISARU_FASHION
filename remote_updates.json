@@ -56,5 +56,13 @@
     "type": "delete_user",
     "role": "cashier",
     "username": "1"
+  },
+  {
+    "update_id": "upd_260309135956_47",
+    "type": "add_user",
+    "is_edit": false,
+    "role": "cashier",
+    "username": "1",
+    "password": "1"
   }
 ]
