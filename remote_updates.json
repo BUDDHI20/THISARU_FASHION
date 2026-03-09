@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "update_id": "upd_260309113805_49",
+    "type": "add_user",
+    "role": "cashier",
+    "username": "BG PRODUCTIONS",
+    "password": "1234"
+  }
+]
