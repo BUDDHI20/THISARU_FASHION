@@ -1,12 +1,5 @@
 [
   {
-    "update_id": "upd_86250",
-    "type": "add_user",
-    "role": "admin",
-    "username": "bg",
-    "password": "6969"
-  },
-  {
     "update_id": "upd_88046",
     "type": "delete_user",
     "role": "admin",
