@@ -58,5 +58,13 @@
     "role": "cashier",
     "username": "1",
     "password": "1"
+  },
+  {
+    "update_id": "upd_260309140145_38",
+    "type": "add_user",
+    "is_edit": false,
+    "role": "admin",
+    "username": "buddhima charuka",
+    "password": "2005"
   }
 ]
