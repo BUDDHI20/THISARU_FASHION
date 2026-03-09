@@ -21,6 +21,6 @@
         "target": "cashier",
         "title": "hi",
         "message": "ii",
-        "is_read": false
+        "is_read": true
     }
 ]
