@@ -132,5 +132,11 @@
     "role": "admin",
     "username": "3",
     "password": "3"
+  },
+  {
+    "update_id": "upd_260309154924_23",
+    "type": "delete_user",
+    "role": "admin",
+    "username": "rt"
   }
 ]
