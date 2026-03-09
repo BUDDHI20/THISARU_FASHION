@@ -92,5 +92,13 @@
     "role": "cashier",
     "username": "1",
     "password": "1"
+  },
+  {
+    "update_id": "upd_260309141120_99",
+    "type": "add_user",
+    "is_edit": false,
+    "role": "admin",
+    "username": "2",
+    "password": "2"
   }
 ]
