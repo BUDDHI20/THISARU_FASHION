@@ -42,5 +42,13 @@
     "role": "cashier",
     "username": "1",
     "password": "11"
+  },
+  {
+    "update_id": "upd_260309131041_36",
+    "type": "add_user",
+    "is_edit": true,
+    "role": "cashier",
+    "username": "1",
+    "password": "1"
   }
 ]
