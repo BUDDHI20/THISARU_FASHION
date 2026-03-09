@@ -72,5 +72,11 @@
     "type": "delete_user",
     "role": "admin",
     "username": "buddhima charuka"
+  },
+  {
+    "update_id": "upd_260309140950_64",
+    "type": "delete_user",
+    "role": "cashier",
+    "username": "1"
   }
 ]
