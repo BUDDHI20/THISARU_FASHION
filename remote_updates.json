@@ -180,5 +180,11 @@
     "role": "admin",
     "username": "6",
     "password": "6"
+  },
+  {
+    "update_id": "upd_260309193326_62",
+    "type": "delete_user",
+    "role": "admin",
+    "username": "6"
   }
 ]
