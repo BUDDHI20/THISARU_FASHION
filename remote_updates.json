@@ -124,5 +124,13 @@
     "role": "admin",
     "username": "rt",
     "password": "22"
+  },
+  {
+    "update_id": "upd_260309154904_54",
+    "type": "add_user",
+    "is_edit": false,
+    "role": "admin",
+    "username": "3",
+    "password": "3"
   }
 ]
