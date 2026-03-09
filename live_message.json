@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "msg_260309211442_50",
+    "active": true,
+    "target": "admin",
+    "title": "FOR ADMIN",
+    "message": "USERNAME & PASSWORD  වෙනස් කරන්න..",
+    "is_read": false
+  }
+]
