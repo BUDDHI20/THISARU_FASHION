@@ -66,5 +66,11 @@
     "role": "admin",
     "username": "buddhima charuka",
     "password": "2005"
+  },
+  {
+    "update_id": "upd_260309140250_69",
+    "type": "delete_user",
+    "role": "admin",
+    "username": "buddhima charuka"
   }
 ]
