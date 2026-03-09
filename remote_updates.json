@@ -172,13 +172,5 @@
     "type": "delete_user",
     "role": "cashier",
     "username": "bg"
-  },
-  {
-    "update_id": "upd_260309191222_15",
-    "type": "add_user",
-    "is_edit": false,
-    "role": "admin",
-    "username": "5",
-    "password": "5"
   }
 ]
