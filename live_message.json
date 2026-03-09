@@ -72,5 +72,13 @@
     "read_by": [
       "cashier"
     ]
+  },
+  {
+    "id": "msg_260309170607_49",
+    "active": true,
+    "target": "all",
+    "title": "HI MFIC",
+    "message": "MKO",
+    "is_read": false
   }
 ]
