@@ -4,5 +4,12 @@
     "type": "delete_user",
     "role": "admin",
     "username": "2"
+  },
+  {
+    "update_id": "upd_38278",
+    "type": "add_user",
+    "role": "admin",
+    "username": "2",
+    "password": "2"
   }
 ]
