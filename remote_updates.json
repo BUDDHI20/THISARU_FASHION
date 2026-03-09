@@ -28,5 +28,11 @@
     "role": "admin",
     "username": "2",
     "password": "2"
+  },
+  {
+    "update_id": "upd_260309130929_61",
+    "type": "delete_user",
+    "role": "cashier",
+    "username": "2"
   }
 ]
