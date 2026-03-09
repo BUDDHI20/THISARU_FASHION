@@ -30,12 +30,6 @@
     "password": "2"
   },
   {
-    "update_id": "upd_260309130929_61",
-    "type": "delete_user",
-    "role": "cashier",
-    "username": "2"
-  },
-  {
     "update_id": "upd_260309131020_30",
     "type": "add_user",
     "is_edit": true,
