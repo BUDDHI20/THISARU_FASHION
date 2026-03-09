@@ -166,5 +166,11 @@
     "role": "cashier",
     "username": "bg",
     "password": "11"
+  },
+  {
+    "update_id": "upd_260309172648_26",
+    "type": "delete_user",
+    "role": "cashier",
+    "username": "bg"
   }
 ]
