@@ -200,5 +200,11 @@
     "role": "cashier",
     "username": "44",
     "password": "44"
+  },
+  {
+    "update_id": "upd_260309211226_79",
+    "type": "delete_user",
+    "role": "cashier",
+    "username": "44"
   }
 ]
