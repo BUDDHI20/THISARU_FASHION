@@ -12,5 +12,13 @@
     "role": "admin",
     "username": "2",
     "password": "2"
+  },
+  {
+    "update_id": "upd_260309130801_44",
+    "type": "add_user",
+    "is_edit": false,
+    "role": "cashier",
+    "username": "2",
+    "password": "2"
   }
 ]
