@@ -138,5 +138,11 @@
     "type": "delete_user",
     "role": "admin",
     "username": "rt"
+  },
+  {
+    "update_id": "upd_260309154939_17",
+    "type": "delete_user",
+    "role": "admin",
+    "username": "3"
   }
 ]
