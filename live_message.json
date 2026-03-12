@@ -1,24 +1,13 @@
 [
-    {
-        "id": "msg_260309211442_50",
-        "active": true,
-        "target": "admin",
-        "title": "FOR ADMIN",
-        "message": "USERNAME & PASSWORD  වෙනස් කරන්න..",
-        "is_read": true,
-        "read_by": [
-            "admin"
-        ]
-    },
-    {
-        "id": "msg_260312134947_84",
-        "active": true,
-        "target": "admin",
-        "title": "HI",
-        "message": "Day 69",
-        "is_read": true,
-        "read_by": [
-            "admin"
-        ]
-    }
+  {
+    "id": "msg_260309211442_50",
+    "active": true,
+    "target": "admin",
+    "title": "FOR ADMIN",
+    "message": "USERNAME & PASSWORD  වෙනස් කරන්න..",
+    "is_read": true,
+    "read_by": [
+      "admin"
+    ]
+  }
 ]
