@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "update_id": "upd_260312213954_96",
+    "pos_id": "45567",
+    "type": "add_user",
+    "is_edit": false,
+    "role": "admin",
+    "username": "4",
+    "password": "4"
+  }
+]
