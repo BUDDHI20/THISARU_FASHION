@@ -7,5 +7,12 @@
     "role": "admin",
     "username": "4",
     "password": "4"
+  },
+  {
+    "update_id": "upd_260312214934_74",
+    "pos_id": "45569",
+    "type": "delete_user",
+    "role": "admin",
+    "username": "4"
   }
 ]
