@@ -31,7 +31,8 @@
         "message": "GG",
         "is_read": true,
         "read_by": [
-            "admin"
+            "admin",
+            "cashier"
         ]
     }
 ]
