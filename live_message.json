@@ -1,25 +1,34 @@
 [
-    {
-        "id": "msg_260309211442_50",
-        "active": true,
-        "target": "admin",
-        "title": "FOR ADMIN",
-        "message": "USERNAME & PASSWORD  වෙනස් කරන්න..",
-        "is_read": true,
-        "read_by": [
-            "admin"
-        ]
-    },
-    {
-        "id": "msg_260312201140_31",
-        "pos_id": "45568",
-        "active": true,
-        "target": "admin",
-        "title": "ii",
-        "message": "hi",
-        "is_read": true,
-        "read_by": [
-            "admin"
-        ]
-    }
+  {
+    "id": "msg_260309211442_50",
+    "active": true,
+    "target": "admin",
+    "title": "FOR ADMIN",
+    "message": "USERNAME & PASSWORD  වෙනස් කරන්න..",
+    "is_read": true,
+    "read_by": [
+      "admin"
+    ]
+  },
+  {
+    "id": "msg_260312201140_31",
+    "pos_id": "45568",
+    "active": true,
+    "target": "admin",
+    "title": "ii",
+    "message": "hi",
+    "is_read": true,
+    "read_by": [
+      "admin"
+    ]
+  },
+  {
+    "id": "msg_260312213659_86",
+    "pos_id": "45567",
+    "active": true,
+    "target": "all",
+    "title": "55",
+    "message": "GG",
+    "is_read": false
+  }
 ]
