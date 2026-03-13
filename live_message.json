@@ -56,7 +56,8 @@
         "message": "jjj",
         "is_read": true,
         "read_by": [
-            "cashier"
+            "cashier",
+            "admin"
         ]
     }
 ]
